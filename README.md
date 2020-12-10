@@ -1,6 +1,6 @@
 # agn-psr-nn-classification
 
-![plot](map_dnn_glat.pdf)
+![map_dnn](https://user-images.githubusercontent.com/37272943/101777807-48eeb700-3af3-11eb-9eb2-e12479c2a7e6.png)
 
 This repository contains the full list of the neural network predictions for the classes (AGN, PSR, YNG, MSP) of unlabelled sources in the 4FGL-DR2 catalog as obtained in the work: arXiv:2012.XXX 
 
